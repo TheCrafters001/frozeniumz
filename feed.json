@@ -13,14 +13,14 @@
             "id": "https://thecrafters001.github.io/frozeniumz/live-stream.html",
             "url": "https://thecrafters001.github.io/frozeniumz/live-stream.html",
             "title": "Live Stream",
-            "content_html": "<!-- Add a placeholder for the Twitch embed -->\n<div id=\"twitch-embed\"></div>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"500\" src=\"https://player.twitch.tv/?FrozeniumZ&amp;parent=thecrafters001.github.io\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
                 "name": "TheCrafters001"
             },
             "tags": [
             ],
             "date_published": "2022-06-04T02:19:54-04:00",
-            "date_modified": "2022-06-04T02:42:10-04:00"
+            "date_modified": "2022-06-04T02:50:51-04:00"
         }
     ]
 }
