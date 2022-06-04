@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>FrozeniumZ</title>
+    <link href="https://thecrafters001.github.io/frozeniumz/feed.xml" rel="self" />
+    <link href="https://thecrafters001.github.io/frozeniumz" />
+    <updated>2022-06-04T02:42:10-04:00</updated>
+    <author>
+        <name>TheCrafters001</name>
+    </author>
+    <id>https://thecrafters001.github.io/frozeniumz</id>
+
+    <entry>
+        <title>Live Stream</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.github.io/frozeniumz/live-stream.html"/>
+        <id>https://thecrafters001.github.io/frozeniumz/live-stream.html</id>
+
+        <updated>2022-06-04T02:42:10-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <!-- Add a placeholder for the Twitch embed -->
+<div id="twitch-embed"></div>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thecrafters001.github.io/frozeniumz/sitemap.xml

@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "FrozeniumZ",
+    "description": "",
+    "home_page_url": "https://thecrafters001.github.io/frozeniumz",
+    "feed_url": "https://thecrafters001.github.io/frozeniumz/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "TheCrafters001"
+    },
+    "items": [
+        {
+            "id": "https://thecrafters001.github.io/frozeniumz/live-stream.html",
+            "url": "https://thecrafters001.github.io/frozeniumz/live-stream.html",
+            "title": "Live Stream",
+            "content_html": "<!-- Add a placeholder for the Twitch embed -->\n<div id=\"twitch-embed\"></div>",
+            "author": {
+                "name": "TheCrafters001"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-04T02:19:54-04:00",
+            "date_modified": "2022-06-04T02:42:10-04:00"
+        }
+    ]
+}
