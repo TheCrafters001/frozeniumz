@@ -3,7 +3,7 @@
     <title>FrozeniumZ</title>
     <link href="https://thecrafters001.github.io/frozeniumz/feed.xml" rel="self" />
     <link href="https://thecrafters001.github.io/frozeniumz" />
-    <updated>2022-06-04T02:50:51-04:00</updated>
+    <updated>2022-06-04T02:53:33-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
@@ -17,11 +17,11 @@
         <link href="https://thecrafters001.github.io/frozeniumz/live-stream.html"/>
         <id>https://thecrafters001.github.io/frozeniumz/live-stream.html</id>
 
-        <updated>2022-06-04T02:50:51-04:00</updated>
+        <updated>2022-06-04T02:53:33-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="100%" height="500" src="https://player.twitch.tv/?FrozeniumZ&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe></div>
+                <div class="post__iframe"><iframe loading="lazy" width="100%" height="500" src="https://player.twitch.tv/?channel=FrozeniumZ&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
