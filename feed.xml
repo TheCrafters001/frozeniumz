@@ -3,12 +3,29 @@
     <title>FrozeniumZ</title>
     <link href="https://thecrafters001.github.io/frozeniumz/feed.xml" rel="self" />
     <link href="https://thecrafters001.github.io/frozeniumz" />
-    <updated>2022-06-09T00:53:28-04:00</updated>
+    <updated>2022-06-16T15:15:41-04:00</updated>
     <author>
         <name>TheCrafters001</name>
     </author>
     <id>https://thecrafters001.github.io/frozeniumz</id>
 
+    <entry>
+        <title>Butter Acquired.</title>
+        <author>
+            <name>TheCrafters001</name>
+        </author>
+        <link href="https://thecrafters001.github.io/frozeniumz/butter-acquired/"/>
+        <id>https://thecrafters001.github.io/frozeniumz/butter-acquired/</id>
+            <category term="Clips"/>
+
+        <updated>2022-06-16T15:15:41-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="100%" height="480" src="https://clips.twitch.tv/embed?clip=ColorfulRamshackleDoveKeyboardCat-wuPrRNAmVXHp4llL&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Smash bros Quick play (again)</title>
         <author>
