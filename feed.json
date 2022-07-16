@@ -13,8 +13,7 @@
             "id": "https://thecrafters001.github.io/frozeniumz/butter-acquired/",
             "url": "https://thecrafters001.github.io/frozeniumz/butter-acquired/",
             "title": "Butter Acquired.",
-            "summary": "In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be&hellip;",
-            "content_html": "<div class=\"post__iframe\">\n                <div \n                    class=\"pec-wrapper\" \n                    data-consent-group-id=\"twitch\">\n                    <iframe data-consent-overlay-added=\"true\" loading=\"lazy\" width=\"100%\" height=\"480\" data-consent-src=\"https://clips.twitch.tv/embed?clip=ColorfulRamshackleDoveKeyboardCat-wuPrRNAmVXHp4llL&amp;parent=thecrafters001.github.io\" allowfullscreen=\"allowfullscreen\"></iframe>\n                    <div class=\"pec-overlay is-active\" aria-hidden=\"false\">\n                        <div class=\"pec-overlay-inner\">\n                            <p>In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be allowed to see this content.</p>\n                            <button \n                                class=\"pec-button\" \n                                onclick=\"window.publiiEmbedConsentGiven('twitch'); return false;\">\n                                Accept\n                            </button>\n                        </div>\n                    </div>\n                    <script>window.publiiEmbedConsentCheck('twitch');</script>\n                </div>\n                </div>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"480\" src=\"https://clips.twitch.tv/embed?clip=ColorfulRamshackleDoveKeyboardCat-wuPrRNAmVXHp4llL&amp;parent=thecrafters001.github.io\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
                 "name": "TheCrafters001"
             },
@@ -28,8 +27,7 @@
             "id": "https://thecrafters001.github.io/frozeniumz/smash-bros-quick-play-again/",
             "url": "https://thecrafters001.github.io/frozeniumz/smash-bros-quick-play-again/",
             "title": "Smash bros Quick play (again)",
-            "summary": "In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be&hellip;",
-            "content_html": "<div class=\"post__iframe\">\n                <div \n                    class=\"pec-wrapper\" \n                    data-consent-group-id=\"twitch\">\n                    <iframe data-consent-overlay-added=\"true\" loading=\"lazy\" width=\"100%\" height=\"480\" data-consent-src=\"https://clips.twitch.tv/embed?clip=KnottyOddCockroachVoteYea--m9q9Yon-_THKZhp&amp;parent=thecrafters001.github.io\" allowfullscreen=\"allowfullscreen\"></iframe>\n                    <div class=\"pec-overlay is-active\" aria-hidden=\"false\">\n                        <div class=\"pec-overlay-inner\">\n                            <p>In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be allowed to see this content.</p>\n                            <button \n                                class=\"pec-button\" \n                                onclick=\"window.publiiEmbedConsentGiven('twitch'); return false;\">\n                                Accept\n                            </button>\n                        </div>\n                    </div>\n                    <script>window.publiiEmbedConsentCheck('twitch');</script>\n                </div>\n                </div>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"480\" src=\"https://clips.twitch.tv/embed?clip=KnottyOddCockroachVoteYea--m9q9Yon-_THKZhp&amp;parent=thecrafters001.github.io\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
                 "name": "TheCrafters001"
             },
@@ -43,8 +41,7 @@
             "id": "https://thecrafters001.github.io/frozeniumz/he-spoke/",
             "url": "https://thecrafters001.github.io/frozeniumz/he-spoke/",
             "title": "HE SPOKE!",
-            "summary": "In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be&hellip;",
-            "content_html": "<div class=\"post__iframe\">\n                <div \n                    class=\"pec-wrapper\" \n                    data-consent-group-id=\"twitch\">\n                    <iframe data-consent-overlay-added=\"true\" loading=\"lazy\" width=\"100%\" height=\"480\" data-consent-src=\"https://clips.twitch.tv/embed?clip=CrypticRelievedVelociraptorCharlieBitMe-zamqexvdYMraf8zS&amp;parent=thecrafters001.github.io\" allowfullscreen=\"allowfullscreen\"></iframe>\n                    <div class=\"pec-overlay is-active\" aria-hidden=\"false\">\n                        <div class=\"pec-overlay-inner\">\n                            <p>In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be allowed to see this content.</p>\n                            <button \n                                class=\"pec-button\" \n                                onclick=\"window.publiiEmbedConsentGiven('twitch'); return false;\">\n                                Accept\n                            </button>\n                        </div>\n                    </div>\n                    <script>window.publiiEmbedConsentCheck('twitch');</script>\n                </div>\n                </div>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"480\" src=\"https://clips.twitch.tv/embed?clip=CrypticRelievedVelociraptorCharlieBitMe-zamqexvdYMraf8zS&amp;parent=thecrafters001.github.io\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
                 "name": "TheCrafters001"
             },
@@ -121,8 +118,7 @@
             "id": "https://thecrafters001.github.io/frozeniumz/live-stream/",
             "url": "https://thecrafters001.github.io/frozeniumz/live-stream/",
             "title": "Live Stream",
-            "summary": "In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be&hellip;",
-            "content_html": "<div class=\"post__iframe\">\n                <div \n                    class=\"pec-wrapper\" \n                    data-consent-group-id=\"twitch\">\n                    <iframe data-consent-overlay-added=\"true\" loading=\"lazy\" width=\"100%\" height=\"500\" data-consent-src=\"https://player.twitch.tv/?channel=FrozeniumZ&amp;parent=thecrafters001.github.io\" allowfullscreen=\"allowfullscreen\"></iframe>\n                    <div class=\"pec-overlay is-active\" aria-hidden=\"false\">\n                        <div class=\"pec-overlay-inner\">\n                            <p>In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be allowed to see this content.</p>\n                            <button \n                                class=\"pec-button\" \n                                onclick=\"window.publiiEmbedConsentGiven('twitch'); return false;\">\n                                Accept\n                            </button>\n                        </div>\n                    </div>\n                    <script>window.publiiEmbedConsentCheck('twitch');</script>\n                </div>\n                </div>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"500\" src=\"https://player.twitch.tv/?channel=FrozeniumZ&amp;parent=thecrafters001.github.io\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
                 "name": "TheCrafters001"
             },

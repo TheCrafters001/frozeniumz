@@ -19,31 +19,10 @@
             <category term="Clips"/>
 
         <updated>2022-06-16T15:15:41-04:00</updated>
-            <summary>
-                <![CDATA[
-                    In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be&hellip;
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe">
-                <div 
-                    class="pec-wrapper" 
-                    data-consent-group-id="twitch">
-                    <iframe data-consent-overlay-added="true" loading="lazy" width="100%" height="480" data-consent-src="https://clips.twitch.tv/embed?clip=ColorfulRamshackleDoveKeyboardCat-wuPrRNAmVXHp4llL&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe>
-                    <div class="pec-overlay is-active" aria-hidden="false">
-                        <div class="pec-overlay-inner">
-                            <p>In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be allowed to see this content.</p>
-                            <button 
-                                class="pec-button" 
-                                onclick="window.publiiEmbedConsentGiven('twitch'); return false;">
-                                Accept
-                            </button>
-                        </div>
-                    </div>
-                    <script>window.publiiEmbedConsentCheck('twitch');</script>
-                </div>
-                </div>
+                <div class="post__iframe"><iframe loading="lazy" width="100%" height="480" src="https://clips.twitch.tv/embed?clip=ColorfulRamshackleDoveKeyboardCat-wuPrRNAmVXHp4llL&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -57,31 +36,10 @@
             <category term="Clips"/>
 
         <updated>2022-06-09T00:53:28-04:00</updated>
-            <summary>
-                <![CDATA[
-                    In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be&hellip;
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe">
-                <div 
-                    class="pec-wrapper" 
-                    data-consent-group-id="twitch">
-                    <iframe data-consent-overlay-added="true" loading="lazy" width="100%" height="480" data-consent-src="https://clips.twitch.tv/embed?clip=KnottyOddCockroachVoteYea--m9q9Yon-_THKZhp&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe>
-                    <div class="pec-overlay is-active" aria-hidden="false">
-                        <div class="pec-overlay-inner">
-                            <p>In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be allowed to see this content.</p>
-                            <button 
-                                class="pec-button" 
-                                onclick="window.publiiEmbedConsentGiven('twitch'); return false;">
-                                Accept
-                            </button>
-                        </div>
-                    </div>
-                    <script>window.publiiEmbedConsentCheck('twitch');</script>
-                </div>
-                </div>
+                <div class="post__iframe"><iframe loading="lazy" width="100%" height="480" src="https://clips.twitch.tv/embed?clip=KnottyOddCockroachVoteYea--m9q9Yon-_THKZhp&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -95,31 +53,10 @@
             <category term="Clips"/>
 
         <updated>2022-06-09T00:52:09-04:00</updated>
-            <summary>
-                <![CDATA[
-                    In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be&hellip;
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe">
-                <div 
-                    class="pec-wrapper" 
-                    data-consent-group-id="twitch">
-                    <iframe data-consent-overlay-added="true" loading="lazy" width="100%" height="480" data-consent-src="https://clips.twitch.tv/embed?clip=CrypticRelievedVelociraptorCharlieBitMe-zamqexvdYMraf8zS&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe>
-                    <div class="pec-overlay is-active" aria-hidden="false">
-                        <div class="pec-overlay-inner">
-                            <p>In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be allowed to see this content.</p>
-                            <button 
-                                class="pec-button" 
-                                onclick="window.publiiEmbedConsentGiven('twitch'); return false;">
-                                Accept
-                            </button>
-                        </div>
-                    </div>
-                    <script>window.publiiEmbedConsentCheck('twitch');</script>
-                </div>
-                </div>
+                <div class="post__iframe"><iframe loading="lazy" width="100%" height="480" src="https://clips.twitch.tv/embed?clip=CrypticRelievedVelociraptorCharlieBitMe-zamqexvdYMraf8zS&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -226,31 +163,10 @@
         <id>https://thecrafters001.github.io/frozeniumz/live-stream/</id>
 
         <updated>2022-06-04T02:53:33-04:00</updated>
-            <summary>
-                <![CDATA[
-                    In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be&hellip;
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe">
-                <div 
-                    class="pec-wrapper" 
-                    data-consent-group-id="twitch">
-                    <iframe data-consent-overlay-added="true" loading="lazy" width="100%" height="500" data-consent-src="https://player.twitch.tv/?channel=FrozeniumZ&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe>
-                    <div class="pec-overlay is-active" aria-hidden="false">
-                        <div class="pec-overlay-inner">
-                            <p>In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be allowed to see this content.</p>
-                            <button 
-                                class="pec-button" 
-                                onclick="window.publiiEmbedConsentGiven('twitch'); return false;">
-                                Accept
-                            </button>
-                        </div>
-                    </div>
-                    <script>window.publiiEmbedConsentCheck('twitch');</script>
-                </div>
-                </div>
+                <div class="post__iframe"><iframe loading="lazy" width="100%" height="500" src="https://player.twitch.tv/?channel=FrozeniumZ&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
