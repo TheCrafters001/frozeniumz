@@ -19,10 +19,31 @@
             <category term="Clips"/>
 
         <updated>2022-06-16T15:15:41-04:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="100%" height="480" src="https://clips.twitch.tv/embed?clip=ColorfulRamshackleDoveKeyboardCat-wuPrRNAmVXHp4llL&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe></div>
+                <div class="post__iframe">
+                <div 
+                    class="pec-wrapper" 
+                    data-consent-group-id="twitch">
+                    <iframe data-consent-overlay-added="true" loading="lazy" width="100%" height="480" data-consent-src="https://clips.twitch.tv/embed?clip=ColorfulRamshackleDoveKeyboardCat-wuPrRNAmVXHp4llL&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe>
+                    <div class="pec-overlay is-active" aria-hidden="false">
+                        <div class="pec-overlay-inner">
+                            <p>In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be allowed to see this content.</p>
+                            <button 
+                                class="pec-button" 
+                                onclick="window.publiiEmbedConsentGiven('twitch'); return false;">
+                                Accept
+                            </button>
+                        </div>
+                    </div>
+                    <script>window.publiiEmbedConsentCheck('twitch');</script>
+                </div>
+                </div>
             ]]>
         </content>
     </entry>
@@ -36,10 +57,31 @@
             <category term="Clips"/>
 
         <updated>2022-06-09T00:53:28-04:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="100%" height="480" src="https://clips.twitch.tv/embed?clip=KnottyOddCockroachVoteYea--m9q9Yon-_THKZhp&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe></div>
+                <div class="post__iframe">
+                <div 
+                    class="pec-wrapper" 
+                    data-consent-group-id="twitch">
+                    <iframe data-consent-overlay-added="true" loading="lazy" width="100%" height="480" data-consent-src="https://clips.twitch.tv/embed?clip=KnottyOddCockroachVoteYea--m9q9Yon-_THKZhp&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe>
+                    <div class="pec-overlay is-active" aria-hidden="false">
+                        <div class="pec-overlay-inner">
+                            <p>In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be allowed to see this content.</p>
+                            <button 
+                                class="pec-button" 
+                                onclick="window.publiiEmbedConsentGiven('twitch'); return false;">
+                                Accept
+                            </button>
+                        </div>
+                    </div>
+                    <script>window.publiiEmbedConsentCheck('twitch');</script>
+                </div>
+                </div>
             ]]>
         </content>
     </entry>
@@ -53,10 +95,31 @@
             <category term="Clips"/>
 
         <updated>2022-06-09T00:52:09-04:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="100%" height="480" src="https://clips.twitch.tv/embed?clip=CrypticRelievedVelociraptorCharlieBitMe-zamqexvdYMraf8zS&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe></div>
+                <div class="post__iframe">
+                <div 
+                    class="pec-wrapper" 
+                    data-consent-group-id="twitch">
+                    <iframe data-consent-overlay-added="true" loading="lazy" width="100%" height="480" data-consent-src="https://clips.twitch.tv/embed?clip=CrypticRelievedVelociraptorCharlieBitMe-zamqexvdYMraf8zS&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe>
+                    <div class="pec-overlay is-active" aria-hidden="false">
+                        <div class="pec-overlay-inner">
+                            <p>In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be allowed to see this content.</p>
+                            <button 
+                                class="pec-button" 
+                                onclick="window.publiiEmbedConsentGiven('twitch'); return false;">
+                                Accept
+                            </button>
+                        </div>
+                    </div>
+                    <script>window.publiiEmbedConsentCheck('twitch');</script>
+                </div>
+                </div>
             ]]>
         </content>
     </entry>
@@ -79,7 +142,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://thecrafters001.github.io/frozeniumz/media/posts/5/waterfox_otokhdgjXG-2.png" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://thecrafters001.github.io/frozeniumz/media/posts/5/waterfox_otokhdgjXG.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://thecrafters001.github.io/frozeniumz/media/posts/5/responsive/waterfox_otokhdgjXG-xs.png 300w ,https://thecrafters001.github.io/frozeniumz/media/posts/5/responsive/waterfox_otokhdgjXG-sm.png 480w ,https://thecrafters001.github.io/frozeniumz/media/posts/5/responsive/waterfox_otokhdgjXG-md.png 768w ,https://thecrafters001.github.io/frozeniumz/media/posts/5/responsive/waterfox_otokhdgjXG-lg.png 1024w ,https://thecrafters001.github.io/frozeniumz/media/posts/5/responsive/waterfox_otokhdgjXG-xl.png 1360w ,https://thecrafters001.github.io/frozeniumz/media/posts/5/responsive/waterfox_otokhdgjXG-2xl.png 1600w"  alt="" width="1619" height="830"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://thecrafters001.github.io/frozeniumz/media/posts/5/waterfox_otokhdgjXG.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://thecrafters001.github.io/frozeniumz/media/posts/5/responsive/waterfox_otokhdgjXG-xs.png 300w ,https://thecrafters001.github.io/frozeniumz/media/posts/5/responsive/waterfox_otokhdgjXG-sm.png 480w ,https://thecrafters001.github.io/frozeniumz/media/posts/5/responsive/waterfox_otokhdgjXG-md.png 768w"  alt="" width="1619" height="830"></figure>
 <p>At the time of writing, he is still live! Check it out here: <a href="https://gamejolt.com/fireside/yukmpamycdz" rel="sponsored ugc">https://gamejolt.com/fireside/yukmpamycdz</a></p>
             ]]>
         </content>
@@ -103,7 +166,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://thecrafters001.github.io/frozeniumz/media/posts/4/waterfox_kS7oAv1gls-2.png" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://thecrafters001.github.io/frozeniumz/media/posts/4/waterfox_kS7oAv1gls.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://thecrafters001.github.io/frozeniumz/media/posts/4/responsive/waterfox_kS7oAv1gls-xs.png 300w ,https://thecrafters001.github.io/frozeniumz/media/posts/4/responsive/waterfox_kS7oAv1gls-sm.png 480w ,https://thecrafters001.github.io/frozeniumz/media/posts/4/responsive/waterfox_kS7oAv1gls-md.png 768w ,https://thecrafters001.github.io/frozeniumz/media/posts/4/responsive/waterfox_kS7oAv1gls-lg.png 1024w ,https://thecrafters001.github.io/frozeniumz/media/posts/4/responsive/waterfox_kS7oAv1gls-xl.png 1360w ,https://thecrafters001.github.io/frozeniumz/media/posts/4/responsive/waterfox_kS7oAv1gls-2xl.png 1600w"  alt="" width="1632" height="843"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://thecrafters001.github.io/frozeniumz/media/posts/4/waterfox_kS7oAv1gls.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://thecrafters001.github.io/frozeniumz/media/posts/4/responsive/waterfox_kS7oAv1gls-xs.png 300w ,https://thecrafters001.github.io/frozeniumz/media/posts/4/responsive/waterfox_kS7oAv1gls-sm.png 480w ,https://thecrafters001.github.io/frozeniumz/media/posts/4/responsive/waterfox_kS7oAv1gls-md.png 768w"  alt="" width="1632" height="843"></figure>
 <p>At the time of writing, he is still live! Check it out here: <a href="https://gamejolt.com/fireside/yukmpamycdz" rel="sponsored ugc">https://gamejolt.com/fireside/yukmpamycdz</a></p>
             ]]>
         </content>
@@ -127,7 +190,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://thecrafters001.github.io/frozeniumz/media/posts/3/waterfox_vGQwgBFMPC.png" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://thecrafters001.github.io/frozeniumz/media/posts/3/waterfox_vGQwgBFMPC-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://thecrafters001.github.io/frozeniumz/media/posts/3/responsive/waterfox_vGQwgBFMPC-2-xs.png 300w ,https://thecrafters001.github.io/frozeniumz/media/posts/3/responsive/waterfox_vGQwgBFMPC-2-sm.png 480w ,https://thecrafters001.github.io/frozeniumz/media/posts/3/responsive/waterfox_vGQwgBFMPC-2-md.png 768w ,https://thecrafters001.github.io/frozeniumz/media/posts/3/responsive/waterfox_vGQwgBFMPC-2-lg.png 1024w ,https://thecrafters001.github.io/frozeniumz/media/posts/3/responsive/waterfox_vGQwgBFMPC-2-xl.png 1360w ,https://thecrafters001.github.io/frozeniumz/media/posts/3/responsive/waterfox_vGQwgBFMPC-2-2xl.png 1600w"  alt="" width="1605" height="848"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://thecrafters001.github.io/frozeniumz/media/posts/3/waterfox_vGQwgBFMPC-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://thecrafters001.github.io/frozeniumz/media/posts/3/responsive/waterfox_vGQwgBFMPC-2-xs.png 300w ,https://thecrafters001.github.io/frozeniumz/media/posts/3/responsive/waterfox_vGQwgBFMPC-2-sm.png 480w ,https://thecrafters001.github.io/frozeniumz/media/posts/3/responsive/waterfox_vGQwgBFMPC-2-md.png 768w"  alt="" width="1605" height="848"></figure>
 <p>At the time of writing, he is still live! Check it out here: <a href="https://gamejolt.com/fireside/yukmpamycdz" rel="sponsored ugc">https://gamejolt.com/fireside/yukmpamycdz</a></p>
             ]]>
         </content>
@@ -163,10 +226,31 @@
         <id>https://thecrafters001.github.io/frozeniumz/live-stream/</id>
 
         <updated>2022-06-04T02:53:33-04:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="100%" height="500" src="https://player.twitch.tv/?channel=FrozeniumZ&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe></div>
+                <div class="post__iframe">
+                <div 
+                    class="pec-wrapper" 
+                    data-consent-group-id="twitch">
+                    <iframe data-consent-overlay-added="true" loading="lazy" width="100%" height="500" data-consent-src="https://player.twitch.tv/?channel=FrozeniumZ&amp;parent=thecrafters001.github.io" allowfullscreen="allowfullscreen"></iframe>
+                    <div class="pec-overlay is-active" aria-hidden="false">
+                        <div class="pec-overlay-inner">
+                            <p>In order to see this stream, clip, or VOD, you must enable cookies for Twitch. Otherwise you will not be allowed to see this content.</p>
+                            <button 
+                                class="pec-button" 
+                                onclick="window.publiiEmbedConsentGiven('twitch'); return false;">
+                                Accept
+                            </button>
+                        </div>
+                    </div>
+                    <script>window.publiiEmbedConsentCheck('twitch');</script>
+                </div>
+                </div>
             ]]>
         </content>
     </entry>
